@@ -1,0 +1,24 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Nogg-aholic/ContentLib_Recipes/master/FContentLib_Recipe.json",
+	"Name": "Biomass (Petals)",
+	"Ingredients": [
+		{
+			"Item": "FlowerPetals",
+			"Amount": 3
+		}
+	],
+	"Products": [
+		{
+			"Item": "GenericBiomass",
+			"Amount": 10
+		}
+	],
+	"ManufacturingDuration": 10,
+	"ProducedIn": [
+		"Build_ConstructorMk1",
+		"manual"
+	],
+	"UnlockedBy": [
+		"Research_FlowerPetals_1"
+	]
+}
