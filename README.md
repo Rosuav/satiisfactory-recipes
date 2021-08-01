@@ -23,3 +23,18 @@ Megajoule for megajoule, petals are as efficient as leaves (gaining 6:1), and wo
 everything else.
 
 This recipe is unlocked by researching flower petals in the MAM.
+
+BioMixture
+----------
+
+Recipe_BioMixture.json
+
+The true advantage of biomass is that it's a mixture of everything, carefully balanced
+for flammability. At the cost of complexity, you can now optimize your use of leaves and
+petals, producing notable quantities of biomass from them. The return on investment is
+18:1, better than wood (9:1) but still a far cry from using the local wildlife (72:1 for
+carapaces, 144:1 for organs).
+
+Requires the use of an Assembler and cannot be cut by hand.
+
+This recipe is also unlocked by researching flower petals in the MAM.
